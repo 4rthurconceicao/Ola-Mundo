@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right,#308fd2,#5e79dd);
+}
+h1{
+  margin-top: 300px;
+  text-align: center;
+  font-size: 58px;
+  font-family:monospace ;
+  color: rgb(57, 59, 60); 
+}
+
+abbr{
+    text-decoration: none;
+}
