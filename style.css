@@ -12,3 +12,8 @@ h1{
 abbr{
     text-decoration: none;
 }
+
+p{
+  text-align: center;
+  margin-top: 50px;
+}
